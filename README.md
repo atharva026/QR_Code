@@ -7,5 +7,5 @@ Features :
     <li>Downloadable QR Codes: Allows users to download the generated QR code images.</li>
   </ol>
 
-  <a href="https://qr-code-e97m.onrender.com/" />
+  [a link]([https://github.com/user/repo/blob/branch/other_file.md](https://qr-code-e97m.onrender.com/))
 </pre>
